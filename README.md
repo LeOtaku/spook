@@ -2,6 +2,17 @@
   <img src="https://picturepan2.github.io/spectre/img/spectre-logo.svg" width="72" height="72">
 </a>
 
+# Spook.css
+Spook.css is my own Spectre-based css framework
+
+- Based on Spectre.css
+- Adds new helper classes
+- Substitutes flexbox helpers with css-grid
+- Removes all/most components
+
+This is not a serious project, these are just my personal sass snippets embedded in the great Spectre framework!
+
+# About spectre:
 ## Spectre.css
 
 Spectre.css is a lightweight, responsive and modern CSS framework.
